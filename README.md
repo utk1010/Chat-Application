@@ -1,0 +1,1 @@
+Welcome to the Chat App, a real-time messaging application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This app provides a seamless and intuitive interface for users to communicate in real-time, featuring user authentication, chat rooms, and more.
